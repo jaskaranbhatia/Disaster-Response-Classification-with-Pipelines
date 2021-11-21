@@ -82,3 +82,13 @@ This project uses Python 3 and the necessary libraries are mentioned in requirem
 3. Further, I used the pickle model to predict the class of disaster messages in a flask app which is further exported on Heroku. 
 
 4. This is a unique app and can be used with twitter data to classify hashtags and predict calamities in a particular region as well. This has great application and can be a great tool for disaster classification 
+
+### Screenshots
+
+![screenshot_1](https://user-images.githubusercontent.com/43378659/142759729-07ee8800-2851-448f-bb7c-50f13a51538f.JPG)
+![screenshot_2](https://user-images.githubusercontent.com/43378659/142759730-ad3c3d0b-18b7-4ecd-9e86-59b078dd756e.JPG)
+![screenshot_3](https://user-images.githubusercontent.com/43378659/142759731-c53ce6fa-3f4f-4cbf-af11-cb5c8d873625.JPG)
+![screenshot_4](https://user-images.githubusercontent.com/43378659/142759732-62cc06fc-d45e-4ae9-9eb4-d34fba94daf4.JPG)
+![screenshot_5](https://user-images.githubusercontent.com/43378659/142759733-6e58fa97-9e22-455a-ace2-fd2a23124156.JPG)
+![screenshots_6](https://user-images.githubusercontent.com/43378659/142759735-baf28213-a4b8-4b12-a830-8975c1276071.JPG)
+
