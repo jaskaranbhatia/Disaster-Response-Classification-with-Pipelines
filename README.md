@@ -74,3 +74,11 @@ Running `python run.py` **from app directory** will start the web app where user
 This project uses Python 3 and the necessary libraries are mentioned in requirements.txt. The standard libraries which are not mentioned in requirements.txt are collections, json, operator, pickle, pprint, re, sys, time and warnings.
 
 
+### 7. Novelty of Project
+1. The project is a NLP based project and required a lot of research. The data from figure eight was available as an SQL database, so I created an ETL Pipeline to perform data engineering and create data in csv format.
+
+2. Further created a ML Pipeline which automated the process of model building and evaluation along with exporting the model as a pickle model.
+
+3. Further, I used the pickle model to predict the class of disaster messages in a flask app which is further exported on Heroku. 
+
+4. This is a unique app and can be used with twitter data to classify hashtags and predict calamities in a particular region as well. This has great application and can be a great tool for disaster classification 
